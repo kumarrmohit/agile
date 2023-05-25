@@ -16,6 +16,7 @@ here is the crud data for all DTdata is mentioning below:-
 4)delete data               -(localhost:3000/dtdata/:id)
 
 
-============================================
+==========
 All this data stored in MongoDbatlas database
+=
 
